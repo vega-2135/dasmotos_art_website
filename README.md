@@ -1,0 +1,1 @@
+Assignment from Codecademy Front-End Engineer path copurse, level:2. Web Development Fundamentals, Developing with CSS.
